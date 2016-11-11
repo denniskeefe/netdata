@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Install Netstat on Debian/Ubuntu
+#Simple script to install Netdata on Debian/Ubuntu systems
 
 sudo apt install gcc make autoconf autogen automake pkg-config zlib1g-dev uuid-dev libmnl-dev git &&
 
